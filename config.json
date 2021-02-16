@@ -2,16 +2,16 @@
   "SetTimeout": "5000",
   "Servers": [
       {
-          "IP":"",
+          "IP":"193.8.247.30:28015",
           "Port": 28015,
           "RconPassword": "",
-          "DiscordToken": ""
+          "DiscordToken": "NTMzNDYzNjg5Nzk0NDIwNzQ2.YCrf6A.ePt3e0CPr0qW2zBlt1na4hakUWI"
       },
       {
-          "IP":"",
+          "IP":"193.8.247.30:28015",
           "Port": 28015,
           "RconPassword": "",
-          "DiscordToken": ""
+          "DiscordToken": "NTMzNDYzNjg5Nzk0NDIwNzQ2.YCrf6A.ePt3e0CPr0qW2zBlt1na4hakUWI"
       }
   ]
 }
